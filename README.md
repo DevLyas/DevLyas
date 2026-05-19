@@ -22,11 +22,3 @@ A Computer Science student. I use Arch, btw ;) I'm passionate about programming,
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge&logo=arch-linux)
 ![GDB](https://img.shields.io/badge/GDB-111111?style=for-the-badge&logo=gnu)
-
-## 📊 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevLyas&theme=tokyonight)](https://git.io/streak-stats)
-
-## 📫 Contact
-
-- email: mr.ahmed.lyas@gmail.com
